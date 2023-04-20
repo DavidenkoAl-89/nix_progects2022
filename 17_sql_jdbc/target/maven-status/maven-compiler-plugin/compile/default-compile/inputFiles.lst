@@ -1,0 +1,14 @@
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/JdbcUserDao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/GenericJdbcDao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/service/UserService.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/util/DataBaseUtil.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/RoleDao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/connection/ConnectionManager.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/Dao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/JdbcRoleDao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/dao/UserDao.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/Main.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/util/SqlCommand.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/service/RoleService.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/entiny/User.java
+/home/NIX/davydenko-o/davydenko.o/17_sql_jdbc/src/main/java/com/nixsolution/ppp/sql_jdbs/entiny/Role.java

@@ -1,0 +1,16 @@
+com\nixsolution\ppp\jpa_hibernate\service\RoleService.class
+com\nixsolution\ppp\jpa_hibernate\util\HibernateUtil.class
+com\nixsolution\ppp\jpa_hibernate\dao\UserDao.class
+com\nixsolution\ppp\jpa_hibernate\dao\AbstractDao.class
+com\nixsolution\ppp\jpa_hibernate\servlet\filter\AdminFilter.class
+com\nixsolution\ppp\jpa_hibernate\entity\User.class
+com\nixsolution\ppp\jpa_hibernate\dao\HibernateUserDao.class
+com\nixsolution\ppp\jpa_hibernate\servlet\AccessControlServlet.class
+com\nixsolution\ppp\jpa_hibernate\servlet\AdminServlet.class
+com\nixsolution\ppp\jpa_hibernate\servlet\filter\LoginFilter.class
+com\nixsolution\ppp\jpa_hibernate\servlet\UserFormServlet.class
+com\nixsolution\ppp\jpa_hibernate\dao\HibernateRoleDao.class
+com\nixsolution\ppp\jpa_hibernate\entity\Role.class
+com\nixsolution\ppp\jpa_hibernate\dao\Dao.class
+com\nixsolution\ppp\jpa_hibernate\dao\RoleDao.class
+com\nixsolution\ppp\jpa_hibernate\service\UserService.class

@@ -1,0 +1,18 @@
+version: '2'
+services:
+  dav-h2:
+    image: buildo/h2database
+    container_name: myh2-db
+    hostname: dav-h2
+    ports:
+      - "8082:8082"
+    volumes:
+      - ./db.sql:/docker-entrypoint-initdb.d/db.sql
+    restart: always
+
+  dav-app:
+    build: .
+    depends_on:
+      - dav-h2
+    ports:
+      - 8080:8080

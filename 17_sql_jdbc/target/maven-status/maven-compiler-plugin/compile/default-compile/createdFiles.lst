@@ -1,0 +1,14 @@
+com/nixsolution/ppp/sql_jdbs/Main.class
+com/nixsolution/ppp/sql_jdbs/dao/GenericJdbcDao.class
+com/nixsolution/ppp/sql_jdbs/service/RoleService.class
+com/nixsolution/ppp/sql_jdbs/util/DataBaseUtil.class
+com/nixsolution/ppp/sql_jdbs/connection/ConnectionManager.class
+com/nixsolution/ppp/sql_jdbs/dao/JdbcRoleDao.class
+com/nixsolution/ppp/sql_jdbs/entiny/User.class
+com/nixsolution/ppp/sql_jdbs/dao/UserDao.class
+com/nixsolution/ppp/sql_jdbs/dao/JdbcUserDao.class
+com/nixsolution/ppp/sql_jdbs/dao/RoleDao.class
+com/nixsolution/ppp/sql_jdbs/dao/Dao.class
+com/nixsolution/ppp/sql_jdbs/entiny/Role.class
+com/nixsolution/ppp/sql_jdbs/util/SqlCommand.class
+com/nixsolution/ppp/sql_jdbs/service/UserService.class

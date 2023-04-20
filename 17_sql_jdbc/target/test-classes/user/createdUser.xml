@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user id="1" login="aaaa" password="1111" email="com@" firstName="nik1" lastName="lastN1" birthday="2020-11-11"
+          roleId="1"/>
+    <user id="2" login="bbbb" password="2222" email="@com" firstName="nik2" lastName="lastN2" birthday="2020-10-11"
+          roleId="2"/>
+    <user id="3" login="cccc" password="3333" email="com@gmail" firstName="nik3" lastName="lastN3" birthday="2020-11-10"
+          roleId="3"/>
+    <user id="4" login="cccc" password="3333" email="com@gmail" firstName="nik3" lastName="lastN3" birthday="2020-11-10"
+          roleId="4"/>
+</dataset>

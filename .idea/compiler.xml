@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="19_jpa_hibernate" />
+        <module name="10_generics" />
+        <module name="02_oop" />
+        <module name="13_logging" />
+        <module name="01_base_types" />
+        <module name="07_reflections" />
+        <module name="03_strings" />
+        <module name="04_dates" />
+        <module name="12_io" />
+        <module name="14_junit" />
+        <module name="17_sql_jdbc" />
+        <module name="11_streams" />
+        <module name="06_collections" />
+        <module name="18_servlets_jsp" />
+        <module name="08_serialization" />
+        <module name="05_exceptions" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_base_types" target="11" />
+      <module name="02_oop" target="11" />
+      <module name="03_strings" target="11" />
+      <module name="04_dates" target="11" />
+      <module name="05_exceptions" target="11" />
+      <module name="06_collections" target="11" />
+      <module name="07_reflections" target="11" />
+      <module name="08_serialization" target="11" />
+      <module name="10_generics" target="11" />
+      <module name="11_streams" target="11" />
+      <module name="12_io" target="11" />
+      <module name="13_logging" target="11" />
+      <module name="14_junit" target="11" />
+      <module name="17_sql_jdbc" target="11" />
+      <module name="18_servlets_jsp" target="11" />
+      <module name="19_jpa_hibernate" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

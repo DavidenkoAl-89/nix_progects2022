@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/12_io/pom.xml" />
+        <option value="$PROJECT_DIR$/02_oop/pom.xml" />
+        <option value="$PROJECT_DIR$/04_dates/pom.xml" />
+        <option value="$PROJECT_DIR$/14_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/03_strings/pom.xml" />
+        <option value="$PROJECT_DIR$/11_streams/pom.xml" />
+        <option value="$PROJECT_DIR$/13_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/10_generics/pom.xml" />
+        <option value="$PROJECT_DIR$/17_sql_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/01_base_types/pom.xml" />
+        <option value="$PROJECT_DIR$/05_exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/06_collections/pom.xml" />
+        <option value="$PROJECT_DIR$/07_reflections/pom.xml" />
+        <option value="$PROJECT_DIR$/18_servlets_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/08_serialization/pom.xml" />
+        <option value="$PROJECT_DIR$/19_jpa_hibernate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

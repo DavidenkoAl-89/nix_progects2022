@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_base_types/01_base_types.iml" filepath="$PROJECT_DIR$/01_base_types/01_base_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_oop/02_oop.iml" filepath="$PROJECT_DIR$/02_oop/02_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_strings/03_strings.iml" filepath="$PROJECT_DIR$/03_strings/03_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_dates/04_dates.iml" filepath="$PROJECT_DIR$/04_dates/04_dates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_exceptions/05_exceptions.iml" filepath="$PROJECT_DIR$/05_exceptions/05_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_collections/06_collections.iml" filepath="$PROJECT_DIR$/06_collections/06_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_reflections/07_reflections.iml" filepath="$PROJECT_DIR$/07_reflections/07_reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_serialization/08_serialization.iml" filepath="$PROJECT_DIR$/08_serialization/08_serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_generics/10_generics.iml" filepath="$PROJECT_DIR$/10_generics/10_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_streams/11_streams.iml" filepath="$PROJECT_DIR$/11_streams/11_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_io/12_io.iml" filepath="$PROJECT_DIR$/12_io/12_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_logging/13_logging.iml" filepath="$PROJECT_DIR$/13_logging/13_logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_junit/14_junit.iml" filepath="$PROJECT_DIR$/14_junit/14_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_sql_jdbc/17_sql_jdbc.iml" filepath="$PROJECT_DIR$/17_sql_jdbc/17_sql_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_servlets_jsp/18_servlets_jsp.iml" filepath="$PROJECT_DIR$/18_servlets_jsp/18_servlets_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_jpa_hibernate/19_jpa_hibernate.iml" filepath="$PROJECT_DIR$/19_jpa_hibernate/19_jpa_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/davydenko.o.iml" filepath="$PROJECT_DIR$/.idea/davydenko.o.iml" />
+    </modules>
+  </component>
+</project>
